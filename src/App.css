@@ -40,7 +40,7 @@ body {
   overflow-x: hidden;
 }
 
-.container {
+.container-app {
   z-index: 1000;
   width: 100%;
   position: relative;
